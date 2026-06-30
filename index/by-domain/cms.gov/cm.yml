@@ -1,0 +1,6 @@
+datasets:
+  - dataset_id: cms-asp-pricing-files
+    path: datasets/by-domain/cms.gov/asp-pricing-files/asp-pricing-files.yml
+    title: CMS ASP Pricing Files
+    source_domain: cms.gov
+    r2_prefix: catalog/by-domain/cms.gov/cm/cms-asp-pricing-files

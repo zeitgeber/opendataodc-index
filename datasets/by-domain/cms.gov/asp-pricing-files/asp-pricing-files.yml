@@ -1,0 +1,13 @@
+dataset_id: cms-asp-pricing-files
+title: CMS ASP Pricing Files
+source_url: https://www.cms.gov/medicare/payment/part-b-drugs/asp-pricing-files
+source_domain: cms.gov
+source_type: html_page
+update_frequency: quarterly
+source_hints:
+  rss_url: null
+  api_url: null
+  file_formats: [zip, csv]
+license:
+  name: US government public information, verify CMS website terms
+  url: https://www.cms.gov/about-cms/website-policies-important-links

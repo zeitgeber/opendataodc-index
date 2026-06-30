@@ -1,0 +1,13 @@
+SHELL := /bin/bash
+UV ?= /home/adi/.local/bin/uv
+UV_CACHE_DIR ?= /tmp/uv-cache
+
+.PHONY: check validate manifest
+
+check: validate
+
+validate:
+	UV_CACHE_DIR=$(UV_CACHE_DIR) $(UV) run python scripts/validate_index.py
+
+manifest:
+	UV_CACHE_DIR=$(UV_CACHE_DIR) $(UV) run python scripts/validate_index.py --write-manifest

@@ -1,0 +1,11 @@
+# OpenDataODC Index Agent Guidelines
+
+These rules apply to every nested `agent.md` file in this public index repo.
+
+- Make changes locally only unless the user explicitly asks to push or deploy.
+- Do not commit environment files, secrets, generated output, or crawl artifacts.
+- Keep internal docs in the private `opendataodc-docs` repo, not this source repo.
+- Do not accept crawl configuration in public dataset YAML; derive it internally.
+- Keep dataset references organized like the R2 prefix layout.
+- Public submissions should stay small, reviewable, and source-linked.
+- Reviews are human-only until the user explicitly adds automated review.

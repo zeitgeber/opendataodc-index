@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "OpenDataODC dataset reference",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "dataset_id",
+    "title",
+    "source_url",
+    "source_domain",
+    "source_type",
+    "update_frequency",
+    "license"
+  ],
+  "properties": {
+    "dataset_id": {"type": "string", "pattern": "^[a-z0-9][a-z0-9-]*[a-z0-9]$"},
+    "title": {"type": "string"},
+    "source_url": {"type": "string", "format": "uri"},
+    "source_domain": {"type": "string"},
+    "source_type": {
+      "type": "string",
+      "enum": ["api", "rss", "html_page", "file", "mixed"]
+    },
+    "update_frequency": {
+      "type": "string",
+      "enum": ["daily", "weekly", "monthly", "quarterly", "yearly", "adhoc"]
+    },
+    "source_hints": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "rss_url": {"type": ["string", "null"], "format": "uri"},
+        "api_url": {"type": ["string", "null"], "format": "uri"},
+        "file_formats": {
+          "type": "array",
+          "items": {"type": "string"}
+        }
+      }
+    },
+    "license": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "url"],
+      "properties": {
+        "name": {"type": "string"},
+        "url": {"type": "string", "format": "uri"}
+      }
+    }
+  }
+}
