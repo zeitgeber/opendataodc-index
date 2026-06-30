@@ -13,8 +13,16 @@
     "license"
   ],
   "properties": {
-    "dataset_id": {"type": "string", "pattern": "^[a-z0-9][a-z0-9-]*[a-z0-9]$"},
-    "title": {"type": "string"},
+    "dataset_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*[a-z0-9]$",
+      "description": "Stable ASCII slug used for paths and generated lookup files."
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Human-facing dataset name. Unicode/non-ASCII characters are allowed."
+    },
     "source_url": {"type": "string", "format": "uri"},
     "source_domain": {"type": "string"},
     "source_type": {

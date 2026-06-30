@@ -15,6 +15,7 @@ __pycache__/
 # Generated/local crawl output
 .local/
 docs/
+index/
 public/
 build/
 dist/
