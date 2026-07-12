@@ -33,6 +33,11 @@
       "type": "string",
       "enum": ["daily", "weekly", "monthly", "quarterly", "yearly", "adhoc"]
     },
+    "geography": {
+      "type": "array",
+      "items": {"type": "string", "minLength": 1},
+      "description": "Optional places covered by the dataset, such as countries, regions, or cities."
+    },
     "source_hints": {
       "type": "object",
       "additionalProperties": false,

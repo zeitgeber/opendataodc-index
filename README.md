@@ -27,6 +27,7 @@ Required fields:
 - `source_domain`: provider domain, for example `cms.gov`.
 - `source_type`: one of `api`, `rss`, `html_page`, `file`, or `mixed`.
 - `update_frequency`: one of `daily`, `weekly`, `monthly`, `quarterly`, `yearly`, or `adhoc`.
+- `geography`: optional countries, regions, or cities covered by the dataset, for example `[United States]`.
 - `license.name`: short license or terms label.
 - `license.url`: URL where reviewers can verify terms.
 

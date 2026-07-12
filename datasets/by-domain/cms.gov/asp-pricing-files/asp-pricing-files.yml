@@ -4,6 +4,7 @@ source_url: https://www.cms.gov/medicare/payment/part-b-drugs/asp-pricing-files
 source_domain: cms.gov
 source_type: html_page
 update_frequency: quarterly
+geography: [United States]
 source_hints:
   rss_url: null
   api_url: null

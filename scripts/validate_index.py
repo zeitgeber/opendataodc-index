@@ -115,6 +115,12 @@ def validate(path: Path, record: dict[str, object]) -> list[str]:
     }:
         errors.append(f"{path}: unsupported update_frequency")
 
+    geography = record.get("geography", [])
+    if not isinstance(geography, list) or not all(
+        isinstance(item, str) and item.strip() for item in geography
+    ):
+        errors.append(f"{path}: geography must be a list of non-empty strings")
+
     license_info = expect_map(path, record, "license", errors)
     if not license_info.get("name"):
         errors.append(f"{path}: license.name is required")
