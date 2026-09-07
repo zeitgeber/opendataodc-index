@@ -1,0 +1,10 @@
+dataset_id: epa-fuel-economy-vehicles
+title: EPA Fuel Economy Vehicle Data
+source_url: https://www.fueleconomy.gov/feg/epadata/vehicles.csv.zip
+source_domain: www.fueleconomy.gov
+source_type: file
+update_frequency: yearly
+geography: [United States]
+license:
+  name: U.S. Environmental Protection Agency website policy
+  url: https://www.epa.gov/web-policies-and-procedures/epa-disclaimers

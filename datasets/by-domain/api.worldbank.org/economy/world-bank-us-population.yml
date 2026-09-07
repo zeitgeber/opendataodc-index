@@ -1,0 +1,10 @@
+dataset_id: world-bank-us-population
+title: World Bank United States Population Indicator
+source_url: https://api.worldbank.org/v2/country/US/indicator/SP.POP.TOTL?format=json
+source_domain: api.worldbank.org
+source_type: api
+update_frequency: yearly
+geography: [United States]
+license:
+  name: World Bank Terms of Use
+  url: https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets

@@ -1,0 +1,10 @@
+dataset_id: bls-consumer-price-index-all-items
+title: BLS Consumer Price Index All Items Time Series
+source_url: https://download.bls.gov/pub/time.series/cu/cu.data.1.AllItems
+source_domain: download.bls.gov
+source_type: file
+update_frequency: monthly
+geography: [United States]
+license:
+  name: U.S. Bureau of Labor Statistics public data policy
+  url: https://www.bls.gov/bls/linksite.htm

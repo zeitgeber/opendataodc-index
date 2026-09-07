@@ -1,0 +1,10 @@
+dataset_id: cdc-provisional-covid-19-deaths-by-sex-and-age
+title: CDC Provisional COVID-19 Deaths by Sex and Age
+source_url: https://data.cdc.gov/api/views/r8kw-7aab/rows.csv?accessType=DOWNLOAD
+source_domain: data.cdc.gov
+source_type: file
+update_frequency: weekly
+geography: [United States]
+license:
+  name: CDC public domain and reuse policy
+  url: https://www.cdc.gov/other/agencypolicies.html

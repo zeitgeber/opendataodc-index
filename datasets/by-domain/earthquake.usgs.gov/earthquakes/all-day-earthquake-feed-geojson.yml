@@ -1,0 +1,14 @@
+dataset_id: all-day-earthquake-feed-geojson
+title: USGS All-Day Earthquake Feed GeoJSON
+source_url: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson
+source_domain: earthquake.usgs.gov
+source_type: file
+update_frequency: daily
+geography: [Global]
+source_hints:
+  rss_url: null
+  api_url: null
+  file_formats: [geojson]
+license:
+  name: USGS public domain data and credits policy
+  url: https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits

@@ -1,0 +1,10 @@
+dataset_id: canada-population-estimates-age-gender
+title: Canada Population Estimates by Age and Gender
+source_url: https://www150.statcan.gc.ca/n1/en/tbl/csv/17100005-eng.zip
+source_domain: www150.statcan.gc.ca
+source_type: file
+update_frequency: yearly
+geography: [Canada]
+license:
+  name: Statistics Canada Open Licence
+  url: https://www.statcan.gc.ca/en/reference/licence

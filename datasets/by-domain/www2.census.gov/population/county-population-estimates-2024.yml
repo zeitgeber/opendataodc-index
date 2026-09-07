@@ -1,0 +1,14 @@
+dataset_id: county-population-estimates-2024
+title: Annual County Population Estimates 2024
+source_url: https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/counties/totals/co-est2024-alldata.csv
+source_domain: www2.census.gov
+source_type: file
+update_frequency: yearly
+geography: [United States]
+source_hints:
+  rss_url: null
+  api_url: null
+  file_formats: [csv]
+license:
+  name: U.S. Census Bureau open data policy
+  url: https://www.census.gov/about/policies/open-gov/open-data.html

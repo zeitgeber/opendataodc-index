@@ -1,0 +1,10 @@
+dataset_id: noaa-san-francisco-water-levels
+title: NOAA San Francisco Water Levels
+source_url: https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?product=water_level&application=OpenDataODC&begin_date=20260906&end_date=20260907&datum=MLLW&station=9414290&time_zone=gmt&units=metric&format=json
+source_domain: api.tidesandcurrents.noaa.gov
+source_type: api
+update_frequency: daily
+geography: [United States, San Francisco]
+license:
+  name: NOAA terms and conditions
+  url: https://www.noaa.gov/information-technology/terms-and-conditions

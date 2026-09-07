@@ -1,0 +1,10 @@
+dataset_id: chicago-community-areas
+title: Chicago Community Areas
+source_url: https://data.cityofchicago.org/api/views/igwz-8jzy/rows.csv?accessType=DOWNLOAD
+source_domain: data.cityofchicago.org
+source_type: file
+update_frequency: adhoc
+geography: [United States, Chicago]
+license:
+  name: Chicago Data Portal terms of use
+  url: https://data.cityofchicago.org/

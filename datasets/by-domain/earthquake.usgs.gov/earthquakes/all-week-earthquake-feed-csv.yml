@@ -1,0 +1,10 @@
+dataset_id: all-week-earthquake-feed-csv
+title: USGS All-Week Earthquake Feed CSV
+source_url: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.csv
+source_domain: earthquake.usgs.gov
+source_type: file
+update_frequency: daily
+geography: [Global]
+license:
+  name: USGS public domain data and credits policy
+  url: https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits

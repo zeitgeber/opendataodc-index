@@ -1,0 +1,10 @@
+dataset_id: chicago-public-schools
+title: Chicago Public Schools
+source_url: https://data.cityofchicago.org/api/views/9xs2-f89t/rows.csv?accessType=DOWNLOAD
+source_domain: data.cityofchicago.org
+source_type: file
+update_frequency: yearly
+geography: [United States, Chicago]
+license:
+  name: Chicago Data Portal terms of use
+  url: https://data.cityofchicago.org/

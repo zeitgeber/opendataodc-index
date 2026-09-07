@@ -1,0 +1,14 @@
+dataset_id: deepen-training-site-data-catalog
+title: DEEPEN US Training Site Data Catalog
+source_url: https://gdr.openei.org/files/1332/DEEPEN%20US%20training%20site%20data%20catalog%2009302021%20%281%29.xlsx
+source_domain: gdr.openei.org
+source_type: file
+update_frequency: adhoc
+geography: [United States]
+source_hints:
+  rss_url: null
+  api_url: null
+  file_formats: [xlsx]
+license:
+  name: U.S. Department of Energy copyright policy
+  url: https://www.energy.gov/copyright

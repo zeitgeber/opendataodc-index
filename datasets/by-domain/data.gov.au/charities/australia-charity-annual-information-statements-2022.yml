@@ -1,0 +1,10 @@
+dataset_id: australia-charity-annual-information-statements-2022
+title: Australia Charity Annual Information Statements 2022
+source_url: https://data.gov.au/data/dataset/311c24f3-fc09-42e7-8362-f15a76334a75/resource/cfbcf6f1-7ce5-472f-bfd3-a478e67e0366/download/datadotgov_ais22.csv
+source_domain: data.gov.au
+source_type: file
+update_frequency: yearly
+geography: [Australia]
+license:
+  name: Creative Commons Attribution 2.5 Australia
+  url: https://creativecommons.org/licenses/by/2.5/au/

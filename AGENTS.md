@@ -10,3 +10,7 @@ These rules apply to every nested `agent.md` file in this public index repo.
 - Do not commit generated index manifests in this public repo.
 - Public submissions should stay small, reviewable, and source-linked.
 - Reviews are human-only until the user explicitly adds automated review.
+- When a submission path fails or gets reworked, capture the false start and
+  the rule learned in one line so later edits do not repeat the same search.
+- Keep learnings terse and durable; avoid long task notes that will not help
+  the next submission.

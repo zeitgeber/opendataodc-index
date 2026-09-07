@@ -1,0 +1,10 @@
+dataset_id: nyc-wifi-hotspot-locations
+title: NYC Wi-Fi Hotspot Locations
+source_url: https://data.cityofnewyork.us/api/views/yjub-udmw/rows.csv?accessType=DOWNLOAD
+source_domain: data.cityofnewyork.us
+source_type: file
+update_frequency: monthly
+geography: [United States, New York City]
+license:
+  name: NYC Open Data terms of use
+  url: https://opendata.cityofnewyork.us/overview/#termsofuse

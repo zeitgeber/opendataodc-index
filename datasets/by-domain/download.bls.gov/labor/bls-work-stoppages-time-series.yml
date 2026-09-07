@@ -1,0 +1,10 @@
+dataset_id: bls-work-stoppages-time-series
+title: BLS Work Stoppages Time Series
+source_url: https://download.bls.gov/pub/time.series/ws/ws.data.1.AllData
+source_domain: download.bls.gov
+source_type: file
+update_frequency: monthly
+geography: [United States]
+license:
+  name: U.S. Bureau of Labor Statistics public data policy
+  url: https://www.bls.gov/bls/linksite.htm

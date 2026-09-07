@@ -1,0 +1,10 @@
+dataset_id: significant-month-earthquake-feed-geojson
+title: USGS Significant Earthquakes Past Month GeoJSON
+source_url: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson
+source_domain: earthquake.usgs.gov
+source_type: file
+update_frequency: daily
+geography: [Global]
+license:
+  name: USGS public domain data and credits policy
+  url: https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits

@@ -1,0 +1,10 @@
+dataset_id: national-weather-service-dc-hourly-forecast
+title: National Weather Service Washington DC Hourly Forecast
+source_url: https://api.weather.gov/gridpoints/LWX/96,70/forecast/hourly
+source_domain: api.weather.gov
+source_type: api
+update_frequency: daily
+geography: [United States, Washington DC]
+license:
+  name: U.S. National Weather Service disclaimer
+  url: https://www.weather.gov/disclaimer

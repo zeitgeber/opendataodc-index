@@ -1,0 +1,10 @@
+dataset_id: fda-device-recalls
+title: FDA Device Recall Reports Sample
+source_url: https://api.fda.gov/device/recall.json?limit=100
+source_domain: api.fda.gov
+source_type: api
+update_frequency: daily
+geography: [United States]
+license:
+  name: U.S. Food and Drug Administration website policy
+  url: https://www.fda.gov/about-fda/about-website/website-policies

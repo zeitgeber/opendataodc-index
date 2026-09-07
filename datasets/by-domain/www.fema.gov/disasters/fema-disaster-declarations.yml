@@ -1,0 +1,10 @@
+dataset_id: fema-disaster-declarations
+title: FEMA Disaster Declarations Summaries
+source_url: https://www.fema.gov/api/open/v2/DisasterDeclarationsSummaries?$top=1000&$format=json
+source_domain: www.fema.gov
+source_type: api
+update_frequency: daily
+geography: [United States]
+license:
+  name: FEMA website disclaimer
+  url: https://www.fema.gov/about/website-information/disclaimers
