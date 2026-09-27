@@ -1,0 +1,12 @@
+dataset_id: wa-washington-state-cities-and-counties
+title: 'Washington: Washington State Cities and Counties'
+source_url: https://data.wa.gov/api/views/g2kf-7usg/rows.csv?accessType=DOWNLOAD
+source_domain: data.wa.gov
+source_type: file
+update_frequency: adhoc
+geography: [Washington]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Open Data Commons Public Domain Dedication and License
+  url: https://data.wa.gov/demographics/Washington-State-Cities-and-Counties/g2kf-7usg

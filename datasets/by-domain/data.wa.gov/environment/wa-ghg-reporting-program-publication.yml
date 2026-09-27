@@ -1,0 +1,12 @@
+dataset_id: wa-ghg-reporting-program-publication
+title: 'Washington: GHG Reporting Program Publication'
+source_url: https://data.wa.gov/api/views/idhm-59de/rows.csv?accessType=DOWNLOAD
+source_domain: data.wa.gov
+source_type: file
+update_frequency: adhoc
+geography: [Washington]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Public Domain
+  url: https://data.wa.gov/Natural-Resources-Environment/GHG-Reporting-Program-Publication/idhm-59de

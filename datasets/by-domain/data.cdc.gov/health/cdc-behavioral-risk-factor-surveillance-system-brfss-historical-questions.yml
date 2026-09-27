@@ -1,0 +1,12 @@
+dataset_id: cdc-behavioral-risk-factor-surveillance-system-brfss-historical-questions
+title: Behavioral Risk Factor Surveillance System (BRFSS) Historical Questions
+source_url: https://data.cdc.gov/api/views/iuq5-y9ct/rows.csv?accessType=DOWNLOAD
+source_domain: data.cdc.gov
+source_type: file
+update_frequency: adhoc
+geography: [United States]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Public Domain
+  url: https://data.cdc.gov/Behavioral-Risk-Factors/Behavioral-Risk-Factor-Surveillance-System-BRFSS-H/iuq5-y9ct

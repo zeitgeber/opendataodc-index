@@ -1,0 +1,12 @@
+dataset_id: bls-cu-cu-item
+title: BLS consumer price index item codes
+source_url: https://download.bls.gov/pub/time.series/cu/cu.item
+source_domain: download.bls.gov
+source_type: file
+update_frequency: adhoc
+geography: [United States]
+source_hints:
+  file_formats: [txt]
+license:
+  name: Public Domain U.S. Government
+  url: https://www.bls.gov/bls/linksite.htm

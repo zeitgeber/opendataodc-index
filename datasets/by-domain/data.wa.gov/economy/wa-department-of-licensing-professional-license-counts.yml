@@ -1,0 +1,12 @@
+dataset_id: wa-department-of-licensing-professional-license-counts
+title: 'Washington: Department of Licensing Professional License Counts'
+source_url: https://data.wa.gov/api/views/a2n7-rij5/rows.csv?accessType=DOWNLOAD
+source_domain: data.wa.gov
+source_type: file
+update_frequency: adhoc
+geography: [Washington]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Open Data Commons Open Database License
+  url: https://data.wa.gov/Employment/Department-of-Licensing-Professional-License-Count/a2n7-rij5

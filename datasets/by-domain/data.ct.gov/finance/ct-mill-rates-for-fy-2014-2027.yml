@@ -1,0 +1,12 @@
+dataset_id: ct-mill-rates-for-fy-2014-2027
+title: 'Connecticut: Mill Rates for FY 2014-2027'
+source_url: https://data.ct.gov/api/views/emyx-j53e/rows.csv?accessType=DOWNLOAD
+source_domain: data.ct.gov
+source_type: file
+update_frequency: adhoc
+geography: [Connecticut]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Public Domain
+  url: https://data.ct.gov/Local-Government/Mill-Rates-for-FY-2014-2027/emyx-j53e

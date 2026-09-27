@@ -1,0 +1,12 @@
+dataset_id: cdc-impaired-driving-death-rate-by-age-and-sex-2012-2014-all-states
+title: Impaired Driving Death Rate, by Age and Sex, 2012 & 2014, All States
+source_url: https://data.cdc.gov/api/views/ebbj-sh54/rows.csv?accessType=DOWNLOAD
+source_domain: data.cdc.gov
+source_type: file
+update_frequency: adhoc
+geography: [United States]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Public Domain
+  url: https://data.cdc.gov/Motor-Vehicle/Impaired-Driving-Death-Rate-by-Age-and-Sex-2012-20/ebbj-sh54

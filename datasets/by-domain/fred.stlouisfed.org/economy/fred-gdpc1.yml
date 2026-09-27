@@ -1,0 +1,12 @@
+dataset_id: fred-gdpc1
+title: U.S. real gross domestic product
+source_url: https://fred.stlouisfed.org/graph/fredgraph.csv?id=GDPC1
+source_domain: fred.stlouisfed.org
+source_type: file
+update_frequency: quarterly
+geography: [United States]
+source_hints:
+  file_formats: [csv]
+license:
+  name: FRED Terms of Use; underlying series terms apply
+  url: https://fred.stlouisfed.org/legal/terms/

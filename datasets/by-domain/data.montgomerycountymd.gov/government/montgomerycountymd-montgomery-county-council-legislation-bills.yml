@@ -1,0 +1,12 @@
+dataset_id: montgomerycountymd-montgomery-county-council-legislation-bills
+title: 'Montgomery County, Maryland: Montgomery County Council Legislation Bills'
+source_url: https://data.montgomerycountymd.gov/api/views/ksj8-bd3u/rows.csv?accessType=DOWNLOAD
+source_domain: data.montgomerycountymd.gov
+source_type: file
+update_frequency: adhoc
+geography: ['Montgomery County, Maryland']
+source_hints:
+  file_formats: [csv]
+license:
+  name: Public Domain
+  url: https://data.montgomerycountymd.gov/Government/Montgomery-County-Council-Legislation-Bills/ksj8-bd3u

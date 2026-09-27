@@ -1,0 +1,13 @@
+dataset_id: world-bank-canada-population
+title: World Bank population indicators for Canada
+source_url: https://api.worldbank.org/v2/country/CAN/indicator/SP.POP.TOTL?format=json
+source_domain: api.worldbank.org
+source_type: api
+update_frequency: yearly
+geography: [Canada]
+source_hints:
+  api_url: https://api.worldbank.org/v2/country/CAN/indicator/SP.POP.TOTL?format=json
+  file_formats: [json]
+license:
+  name: CC BY 4.0
+  url: https://datacatalog.worldbank.org/public-licenses

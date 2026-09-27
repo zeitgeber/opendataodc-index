@@ -1,0 +1,12 @@
+dataset_id: fred-fedfunds
+title: Effective federal funds rate
+source_url: https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS
+source_domain: fred.stlouisfed.org
+source_type: file
+update_frequency: monthly
+geography: [United States]
+source_hints:
+  file_formats: [csv]
+license:
+  name: FRED Terms of Use; underlying series terms apply
+  url: https://fred.stlouisfed.org/legal/terms/

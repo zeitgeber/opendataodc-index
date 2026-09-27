@@ -1,0 +1,12 @@
+dataset_id: vermont-public-libraries
+title: 'Vermont: Public Libraries'
+source_url: https://data.vermont.gov/api/views/gbrn-7qh4/rows.csv?accessType=DOWNLOAD
+source_domain: data.vermont.gov
+source_type: file
+update_frequency: adhoc
+geography: [Vermont]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Open Database License
+  url: https://data.vermont.gov/Education/Public-Libraries/gbrn-7qh4

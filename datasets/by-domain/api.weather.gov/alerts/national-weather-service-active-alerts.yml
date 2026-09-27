@@ -1,0 +1,13 @@
+dataset_id: national-weather-service-active-alerts
+title: National Weather Service active alerts
+source_url: https://api.weather.gov/alerts/active
+source_domain: api.weather.gov
+source_type: api
+update_frequency: daily
+geography: [United States]
+source_hints:
+  api_url: https://api.weather.gov/alerts/active
+  file_formats: [json]
+license:
+  name: U.S. government public data
+  url: https://www.weather.gov/disclaimer

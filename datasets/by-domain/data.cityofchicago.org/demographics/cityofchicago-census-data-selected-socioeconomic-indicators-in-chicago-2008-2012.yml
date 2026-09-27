@@ -1,0 +1,12 @@
+dataset_id: cityofchicago-census-data-selected-socioeconomic-indicators-in-chicago-2008-2012
+title: 'Chicago: Census Data - Selected socioeconomic indicators in Chicago, 2008 – 2012'
+source_url: https://data.cityofchicago.org/api/views/kn9c-c2s2/rows.csv?accessType=DOWNLOAD
+source_domain: data.cityofchicago.org
+source_type: file
+update_frequency: adhoc
+geography: [Chicago]
+source_hints:
+  file_formats: [csv]
+license:
+  name: See Terms of Use
+  url: https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2

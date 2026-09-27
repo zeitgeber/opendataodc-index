@@ -1,0 +1,12 @@
+dataset_id: dot-highway-data-element-dictionary
+title: Highway Data Element Dictionary
+source_url: https://datahub.transportation.gov/api/views/nhvr-exvq/rows.csv?accessType=DOWNLOAD
+source_domain: datahub.transportation.gov
+source_type: file
+update_frequency: adhoc
+geography: [United States]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Public Domain U.S. Government
+  url: https://datahub.transportation.gov/Roadways-and-Bridges/Highway-Data-Element-Dictionary/nhvr-exvq

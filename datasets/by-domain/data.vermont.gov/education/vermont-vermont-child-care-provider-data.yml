@@ -1,0 +1,12 @@
+dataset_id: vermont-vermont-child-care-provider-data
+title: 'Vermont: Vermont Child Care Provider Data'
+source_url: https://data.vermont.gov/api/views/ctdw-tmfz/rows.csv?accessType=DOWNLOAD
+source_domain: data.vermont.gov
+source_type: file
+update_frequency: adhoc
+geography: [Vermont]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Open Database License
+  url: https://data.vermont.gov/Education/Vermont-Child-Care-Provider-Data/ctdw-tmfz

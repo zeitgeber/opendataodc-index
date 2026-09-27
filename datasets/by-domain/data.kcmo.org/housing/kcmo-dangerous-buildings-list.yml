@@ -1,0 +1,12 @@
+dataset_id: kcmo-dangerous-buildings-list
+title: 'Kansas City: Dangerous Buildings List'
+source_url: https://data.kcmo.org/api/views/ax3m-jhxx/rows.csv?accessType=DOWNLOAD
+source_domain: data.kcmo.org
+source_type: file
+update_frequency: adhoc
+geography: [Kansas City]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Public Domain
+  url: https://data.kcmo.org/Neighborhoods/Dangerous-Buildings-List/ax3m-jhxx

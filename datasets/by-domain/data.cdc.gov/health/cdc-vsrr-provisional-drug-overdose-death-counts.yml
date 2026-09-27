@@ -1,0 +1,12 @@
+dataset_id: cdc-vsrr-provisional-drug-overdose-death-counts
+title: VSRR Provisional Drug Overdose Death Counts
+source_url: https://data.cdc.gov/api/views/xkb8-kh2a/rows.csv?accessType=DOWNLOAD
+source_domain: data.cdc.gov
+source_type: file
+update_frequency: adhoc
+geography: [United States]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Public Domain U.S. Government
+  url: https://data.cdc.gov/National-Center-for-Health-Statistics/VSRR-Provisional-Drug-Overdose-Death-Counts/xkb8-kh2a

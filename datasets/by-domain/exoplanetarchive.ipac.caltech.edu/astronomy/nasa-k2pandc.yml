@@ -1,0 +1,12 @@
+dataset_id: nasa-k2pandc
+title: NASA K2 planets and candidates
+source_url: https://exoplanetarchive.ipac.caltech.edu/TAP/sync?query=select+%2A+from+k2pandc&format=tsv
+source_domain: exoplanetarchive.ipac.caltech.edu
+source_type: file
+update_frequency: weekly
+geography: [Space]
+source_hints:
+  file_formats: [tsv]
+license:
+  name: Public scientific data; archive and literature citation requested
+  url: https://exoplanetarchive.ipac.caltech.edu/docs/acknowledge.html

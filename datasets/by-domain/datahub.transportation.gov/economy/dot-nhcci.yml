@@ -1,0 +1,12 @@
+dataset_id: dot-nhcci
+title: NHCCI
+source_url: https://datahub.transportation.gov/api/views/r94d-n4f9/rows.csv?accessType=DOWNLOAD
+source_domain: datahub.transportation.gov
+source_type: file
+update_frequency: adhoc
+geography: [United States]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Public Domain U.S. Government
+  url: https://datahub.transportation.gov/Research-and-Statistics/NHCCI/r94d-n4f9

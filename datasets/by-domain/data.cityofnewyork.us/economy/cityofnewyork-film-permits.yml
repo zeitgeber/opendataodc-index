@@ -1,0 +1,12 @@
+dataset_id: cityofnewyork-film-permits
+title: 'New York City: Film Permits'
+source_url: https://data.cityofnewyork.us/api/views/tg4x-b46p/rows.csv?accessType=DOWNLOAD
+source_domain: data.cityofnewyork.us
+source_type: file
+update_frequency: adhoc
+geography: [New York City]
+source_hints:
+  file_formats: [csv]
+license:
+  name: NYC Open Data Terms of Use
+  url: https://data.cityofnewyork.us/stories/s/Terms-of-Use/k9k7-3cje/

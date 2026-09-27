@@ -1,0 +1,12 @@
+dataset_id: nola-nora-uncommitted-property-inventory
+title: 'New Orleans: NORA Uncommitted Property Inventory'
+source_url: https://data.nola.gov/api/views/5ktx-e9wc/rows.csv?accessType=DOWNLOAD
+source_domain: data.nola.gov
+source_type: file
+update_frequency: adhoc
+geography: [New Orleans]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Creative Commons 1.0 Universal (Public Domain Dedication)
+  url: https://data.nola.gov/Housing-Land-Use-and-Blight/NORA-Uncommitted-Property-Inventory/5ktx-e9wc

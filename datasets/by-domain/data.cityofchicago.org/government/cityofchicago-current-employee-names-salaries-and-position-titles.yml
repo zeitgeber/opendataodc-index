@@ -1,0 +1,12 @@
+dataset_id: cityofchicago-current-employee-names-salaries-and-position-titles
+title: 'Chicago: Current Employee Names, Salaries, and Position Titles'
+source_url: https://data.cityofchicago.org/api/views/xzkq-xp2w/rows.csv?accessType=DOWNLOAD
+source_domain: data.cityofchicago.org
+source_type: file
+update_frequency: adhoc
+geography: [Chicago]
+source_hints:
+  file_formats: [csv]
+license:
+  name: See Terms of Use
+  url: https://data.cityofchicago.org/Administration-Finance/Current-Employee-Names-Salaries-and-Position-Title/xzkq-xp2w

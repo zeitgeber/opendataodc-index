@@ -1,0 +1,12 @@
+dataset_id: kcmo-list-of-kcmo-city-contracts
+title: 'Kansas City: List of KCMO City Contracts'
+source_url: https://data.kcmo.org/api/views/c46m-hv6s/rows.csv?accessType=DOWNLOAD
+source_domain: data.kcmo.org
+source_type: file
+update_frequency: adhoc
+geography: [Kansas City]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Creative Commons 1.0 Universal (Public Domain Dedication)
+  url: https://data.kcmo.org/Government/List-of-KCMO-City-Contracts/c46m-hv6s

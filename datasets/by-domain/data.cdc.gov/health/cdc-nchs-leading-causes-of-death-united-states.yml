@@ -1,0 +1,12 @@
+dataset_id: cdc-nchs-leading-causes-of-death-united-states
+title: 'NCHS - Leading Causes of Death: United States'
+source_url: https://data.cdc.gov/api/views/bi63-dtpu/rows.csv?accessType=DOWNLOAD
+source_domain: data.cdc.gov
+source_type: file
+update_frequency: adhoc
+geography: [United States]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Public Domain U.S. Government
+  url: https://data.cdc.gov/National-Center-for-Health-Statistics/NCHS-Leading-Causes-of-Death-United-States/bi63-dtpu

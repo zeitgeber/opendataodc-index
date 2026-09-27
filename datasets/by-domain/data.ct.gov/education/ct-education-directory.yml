@@ -1,0 +1,12 @@
+dataset_id: ct-education-directory
+title: 'Connecticut: Education Directory'
+source_url: https://data.ct.gov/api/views/9k2y-kqxn/rows.csv?accessType=DOWNLOAD
+source_domain: data.ct.gov
+source_type: file
+update_frequency: adhoc
+geography: [Connecticut]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Public Domain
+  url: https://data.ct.gov/Education/Education-Directory/9k2y-kqxn

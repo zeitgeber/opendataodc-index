@@ -1,0 +1,12 @@
+dataset_id: oregon-active-benefit-companies
+title: 'Oregon: Active Benefit Companies'
+source_url: https://data.oregon.gov/api/views/baig-8b9x/rows.csv?accessType=DOWNLOAD
+source_domain: data.oregon.gov
+source_type: file
+update_frequency: adhoc
+geography: [Oregon]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Public Domain
+  url: https://data.oregon.gov/business/Active-Benefit-Companies/baig-8b9x

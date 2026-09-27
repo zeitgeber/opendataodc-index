@@ -1,0 +1,12 @@
+dataset_id: colorado-building-permit-counts-in-colorado
+title: 'Colorado: Building Permit Counts in Colorado'
+source_url: https://data.colorado.gov/api/views/v4as-sthd/rows.csv?accessType=DOWNLOAD
+source_domain: data.colorado.gov
+source_type: file
+update_frequency: adhoc
+geography: [Colorado]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Public Domain
+  url: https://data.colorado.gov/Building-and-Facilities/Building-Permit-Counts-in-Colorado/v4as-sthd

@@ -1,0 +1,12 @@
+dataset_id: ct-affordable-housing-by-town-2011-2023
+title: 'Connecticut: Affordable Housing by Town 2011-2023'
+source_url: https://data.ct.gov/api/views/3udy-56vi/rows.csv?accessType=DOWNLOAD
+source_domain: data.ct.gov
+source_type: file
+update_frequency: adhoc
+geography: [Connecticut]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Public Domain
+  url: https://data.ct.gov/Housing-and-Development/Affordable-Housing-by-Town-2011-2023/3udy-56vi

@@ -1,0 +1,12 @@
+dataset_id: nasa-cumulative
+title: NASA Kepler cumulative objects of interest
+source_url: https://exoplanetarchive.ipac.caltech.edu/TAP/sync?query=select+%2A+from+cumulative&format=csv
+source_domain: exoplanetarchive.ipac.caltech.edu
+source_type: file
+update_frequency: weekly
+geography: [Space]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Public scientific data; archive and literature citation requested
+  url: https://exoplanetarchive.ipac.caltech.edu/docs/acknowledge.html

@@ -1,0 +1,12 @@
+dataset_id: cityofnewyork-fdny-firehouse-listing
+title: 'New York City: FDNY Firehouse Listing'
+source_url: https://data.cityofnewyork.us/api/views/hc8x-tcnd/rows.csv?accessType=DOWNLOAD
+source_domain: data.cityofnewyork.us
+source_type: file
+update_frequency: adhoc
+geography: [New York City]
+source_hints:
+  file_formats: [csv]
+license:
+  name: NYC Open Data Terms of Use
+  url: https://data.cityofnewyork.us/stories/s/Terms-of-Use/k9k7-3cje/

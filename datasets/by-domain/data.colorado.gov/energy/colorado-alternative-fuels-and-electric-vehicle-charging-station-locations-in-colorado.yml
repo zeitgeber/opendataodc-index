@@ -1,0 +1,12 @@
+dataset_id: colorado-alternative-fuels-and-electric-vehicle-charging-station-locations-in-colorado
+title: 'Colorado: Alternative Fuels and Electric Vehicle Charging Station Locations in Colorado'
+source_url: https://data.colorado.gov/api/views/team-3ugz/rows.csv?accessType=DOWNLOAD
+source_domain: data.colorado.gov
+source_type: file
+update_frequency: adhoc
+geography: [Colorado]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Public Domain
+  url: https://data.colorado.gov/Energy/Alternative-Fuels-and-Electric-Vehicle-Charging-St/team-3ugz

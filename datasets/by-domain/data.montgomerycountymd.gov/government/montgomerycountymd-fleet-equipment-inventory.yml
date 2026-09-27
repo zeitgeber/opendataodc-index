@@ -1,0 +1,12 @@
+dataset_id: montgomerycountymd-fleet-equipment-inventory
+title: 'Montgomery County, Maryland: Fleet Equipment Inventory'
+source_url: https://data.montgomerycountymd.gov/api/views/93vc-wpdr/rows.csv?accessType=DOWNLOAD
+source_domain: data.montgomerycountymd.gov
+source_type: file
+update_frequency: adhoc
+geography: ['Montgomery County, Maryland']
+source_hints:
+  file_formats: [csv]
+license:
+  name: Public Domain
+  url: https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr

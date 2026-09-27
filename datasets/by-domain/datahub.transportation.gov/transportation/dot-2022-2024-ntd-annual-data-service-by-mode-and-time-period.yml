@@ -1,0 +1,12 @@
+dataset_id: dot-2022-2024-ntd-annual-data-service-by-mode-and-time-period
+title: 2022 - 2024 NTD Annual Data - Service (by Mode and Time Period)
+source_url: https://datahub.transportation.gov/api/views/wwdp-t4re/rows.csv?accessType=DOWNLOAD
+source_domain: datahub.transportation.gov
+source_type: file
+update_frequency: adhoc
+geography: [United States]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Public Domain U.S. Government
+  url: https://datahub.transportation.gov/Public-Transit/2022-2024-NTD-Annual-Data-Service-by-Mode-and-Time/wwdp-t4re

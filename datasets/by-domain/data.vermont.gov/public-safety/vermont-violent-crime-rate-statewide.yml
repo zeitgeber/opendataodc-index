@@ -1,0 +1,12 @@
+dataset_id: vermont-violent-crime-rate-statewide
+title: 'Vermont: Violent Crime Rate - Statewide'
+source_url: https://data.vermont.gov/api/views/kg77-7rux/rows.csv?accessType=DOWNLOAD
+source_domain: data.vermont.gov
+source_type: file
+update_frequency: adhoc
+geography: [Vermont]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Public Domain U.S. Government
+  url: https://data.vermont.gov/dataset/Violent-Crime-Rate-Statewide/kg77-7rux

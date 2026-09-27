@@ -1,0 +1,12 @@
+dataset_id: oregon-active-notaries
+title: 'Oregon: Active Notaries'
+source_url: https://data.oregon.gov/api/views/j2pk-zk6z/rows.csv?accessType=DOWNLOAD
+source_domain: data.oregon.gov
+source_type: file
+update_frequency: adhoc
+geography: [Oregon]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Public Domain
+  url: https://data.oregon.gov/business/Active-Notaries/j2pk-zk6z

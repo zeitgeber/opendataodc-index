@@ -1,0 +1,13 @@
+dataset_id: census-acs-state-population
+title: Census ACS state population estimates
+source_url: "https://api.census.gov/data/2023/acs/acs5?get=NAME%2CB01001_001E&for=state%3A%2A"
+source_domain: api.census.gov
+source_type: api
+update_frequency: yearly
+geography: [United States]
+source_hints:
+  api_url: "https://api.census.gov/data/2023/acs/acs5?get=NAME%2CB01001_001E&for=state%3A%2A"
+  file_formats: [json]
+license:
+  name: U.S. government public data
+  url: https://www.census.gov/data/developers/about/terms-of-service.html

@@ -1,0 +1,12 @@
+dataset_id: dot-weekly-traffic-volume
+title: Weekly Traffic Volume
+source_url: https://datahub.transportation.gov/api/views/yeig-3uz6/rows.csv?accessType=DOWNLOAD
+source_domain: datahub.transportation.gov
+source_type: file
+update_frequency: adhoc
+geography: [United States]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Public Domain U.S. Government
+  url: https://datahub.transportation.gov/Roadways-and-Bridges/Weekly-Traffic-Volume/yeig-3uz6

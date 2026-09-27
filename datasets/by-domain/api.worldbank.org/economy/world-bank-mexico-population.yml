@@ -1,0 +1,13 @@
+dataset_id: world-bank-mexico-population
+title: World Bank population indicators for Mexico
+source_url: https://api.worldbank.org/v2/country/MEX/indicator/SP.POP.TOTL?format=json
+source_domain: api.worldbank.org
+source_type: api
+update_frequency: yearly
+geography: [Mexico]
+source_hints:
+  api_url: https://api.worldbank.org/v2/country/MEX/indicator/SP.POP.TOTL?format=json
+  file_formats: [json]
+license:
+  name: CC BY 4.0
+  url: https://datacatalog.worldbank.org/public-licenses

@@ -1,0 +1,12 @@
+dataset_id: dot-motor-vehicle-registrations-1900-2023-mv-1-wide-format
+title: Motor Vehicle Registrations, 1900 - 2023 (MV-1, wide format)
+source_url: https://datahub.transportation.gov/api/views/hwtm-7xmz/rows.csv?accessType=DOWNLOAD
+source_domain: datahub.transportation.gov
+source_type: file
+update_frequency: adhoc
+geography: [United States]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Public Domain U.S. Government
+  url: https://datahub.transportation.gov/Roadways-and-Bridges/Motor-Vehicle-Registrations-1900-2023-MV-1-wide-fo/hwtm-7xmz

@@ -1,0 +1,12 @@
+dataset_id: colorado-unemployment-estimates-in-colorado
+title: 'Colorado: Unemployment Estimates in Colorado'
+source_url: https://data.colorado.gov/api/views/4e3w-qire/rows.csv?accessType=DOWNLOAD
+source_domain: data.colorado.gov
+source_type: file
+update_frequency: adhoc
+geography: [Colorado]
+source_hints:
+  file_formats: [csv]
+license:
+  name: Public Domain
+  url: https://data.colorado.gov/Labor-and-Employment/Unemployment-Estimates-in-Colorado/4e3w-qire

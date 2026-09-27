@@ -1,0 +1,13 @@
+dataset_id: open-meteo-forecast
+title: Open-Meteo weather forecast
+source_url: "https://api.open-meteo.com/v1/forecast?latitude=40.71&longitude=-74.01&current=temperature_2m&forecast_days=1"
+source_domain: api.open-meteo.com
+source_type: api
+update_frequency: daily
+geography: [New York City]
+source_hints:
+  api_url: "https://api.open-meteo.com/v1/forecast?latitude=40.71&longitude=-74.01&current=temperature_2m&forecast_days=1"
+  file_formats: [json]
+license:
+  name: CC BY 4.0
+  url: https://open-meteo.com/en/licence
